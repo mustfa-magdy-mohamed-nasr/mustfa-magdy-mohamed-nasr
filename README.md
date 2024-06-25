@@ -29,9 +29,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mustfa-magdy-mohamed-nasr/mustfa-magdy-mohamed-nasr/output/snake.svg" alt="Snake animation" />
-
-###
--->
